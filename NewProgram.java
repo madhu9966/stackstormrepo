@@ -3,7 +3,7 @@ package com.exam;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Sample {
+public class NewProgram {
 	public static void main(String[] args) {
 		List<String> l=new ArrayList<String>();
 		l.add("Madhu");
