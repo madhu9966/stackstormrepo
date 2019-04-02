@@ -8,6 +8,7 @@ public class NewProgram {
 		l.add("Madhu");
 		l.add("priya");
 		l.add("Sunny");
+		l.add("ashok");
 		System.out.println(l);
 //add comment
 		
