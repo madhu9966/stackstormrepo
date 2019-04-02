@@ -10,6 +10,7 @@ public class Sample {
 		l.add("priya");
 		l.add("Sunny");
 		System.out.println(l);
+		//add line
 		
 	}
 
