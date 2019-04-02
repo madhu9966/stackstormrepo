@@ -9,6 +9,7 @@ public class NewProgram {
 		l.add("priya");
 		l.add("Sunny");
 		System.out.println(l);
+//add comment
 		
 	}
 
