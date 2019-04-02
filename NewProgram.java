@@ -10,7 +10,7 @@ public class NewProgram {
 		l.add("Sunny");
 		System.out.println(l);
 //add comment
-		//l;ine added
+		
 		
 	}
 
