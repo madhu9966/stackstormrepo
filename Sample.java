@@ -11,6 +11,7 @@ public class Sample {
 		l.add("Sunny");
 		System.out.println(l);
 		//add 
+		//code commited
 		
 	}
 
