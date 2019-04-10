@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.newt.mytraining.myDemo.MyDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.625 s - in com.newt.mytraining.myDemo.MyDemoApplicationTests
